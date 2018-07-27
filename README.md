@@ -15,5 +15,7 @@ The	following commands are supported:
 • list	<user> - display	the	<user>’s objects/files in	“ls	–lrt”	format
 • upload	<user/object> - display	which	disks	<user/object>	is	saved
 • delete	<user/object> - display	a	confirmation
+  
+The upgraded version also includes the following commands:
 • add	<disk> - display	new	partitions	with	all	<user/object>	within
 • remove	<disk>- display	new	partitions	with	all	<user/object>	within
